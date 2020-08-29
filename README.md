@@ -8,7 +8,7 @@
 
 👯 Acredito na ciência aberta e colaborativa, e estou aberto a propostas para trabalhos em conjunto.
 
-📫 Vocês podem entrar em contato comigo por [e-mail](href="mailto:pedro.diniz.rocha@gmail.com?subject=Olá, Pedro), no meu [site](pedrodrocha.com), ou pelo [Twitter[(https://twitter.com/pedro_drocha).
+📫 Vocês podem entrar em contato comigo por e-mail (pedro.diniz.rocha@gmail.com), no meu [site](pedrodrocha.com/about-me/), ou pelo [Twitter[(https://twitter.com/pedro_drocha).
 
 <!--
 **pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
