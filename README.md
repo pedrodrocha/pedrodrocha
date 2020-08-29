@@ -1,6 +1,3 @@
-@settings {
-  font-family: Montserrat;
-}
 
 **Olá, meu nome é Pedro D. Rocha** 👋 
 
@@ -33,6 +30,8 @@
 <!--
 **pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+@settings {
+  font-family: Montserrat;
+}
 
 -->
