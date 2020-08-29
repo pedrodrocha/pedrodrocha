@@ -10,8 +10,6 @@
 
 📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por e-mail (pedro.diniz.rocha@gmail.com), no meu [site](pedrodrocha.com/about-me/), ou pelo [Twitter](https://twitter.com/pedro_drocha).
 
-<!--
-**pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 👋 **Hi, my name is Pedro D. Rocha**
@@ -25,7 +23,11 @@
 
 👯 I believe in _open_ and _colaborative science_!. 
 
-📫 I open for job and/or research proposals. You can find me by e-mail (pedro.diniz.rocha@gmail.com), at my [website](pedrodrocha.com/about-me/) or via [Twitter](https://twitter.com/pedro_drocha).
+📫 I open for job, talks, and/or research proposals. You can find me by e-mail (pedro.diniz.rocha@gmail.com), at my [website](pedrodrocha.com/about-me/) or via [Twitter](https://twitter.com/pedro_drocha).
+
+<!--
+**pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 -->
