@@ -7,7 +7,7 @@ Sou Doutorando em Relações Internacionais no PPGRI "Santiago Dantas" (Unesp-Un
 
 🔭 Pesquiso na área de Estudos de Paz e Segurança Internacional, mais especificamente conflitos territoriais e resolução de conflitos.
 
-🌱 Atualmente venho me especializando em programação (R + Python) e métodos computacionais aplicados as Ciências Sociais
+:chart_with_upwards_trend: :computer: Atualmente venho me especializando em programação (R + Python) e métodos computacionais aplicados as Ciências Sociais
 
 
 👯 Acredito na ciência aberta e colaborativa, e estou aberto a propostas para trabalhos em conjunto.
