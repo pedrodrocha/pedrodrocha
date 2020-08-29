@@ -6,7 +6,7 @@
 
 🔭 Sou Doutorando em _Relações Internacionais_ pelo PPGRI [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), na área de _Estudos de Paz_, _Defesa_ e _Segurança Internacional_. Minha linha de pesquisa gira em torno de _conflitos territoriais_ e _resolução de conflitos_.
 
-:chart_with_upwards_trend: :computer: Atualmente venho me especializando em _programação_ (R + Python) e _métodos computacionais_ aplicados as Ciências Sociais
+:chart_with_upwards_trend: :computer: Atualmente venho me especializando em _programação_ (R + Python) e _métodos computacionais_ aplicados as Ciências Sociais.
 
 👯 Acredito na [_ciência aberta_ e _colaborativa_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
