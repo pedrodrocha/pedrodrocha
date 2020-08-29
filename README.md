@@ -18,7 +18,7 @@
 **Hi, my name is Pedro D. Rocha** 👋 
 
 
-🔭 I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil, and my research is on _Peace Studies_ and _International Security_, with focus in _interstate territorial conflicts_ and _conflict resolution_.
+🔭 I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. My research area is _Peace Studies_ and _International Security_, focusing in _interstate territorial conflicts_ and _conflict resolution_.
 
 
 :chart_with_upwards_trend: :computer: I have beeen studying _programming_ (R + Python) and _computational methods_ applied to the Social Sciences.
