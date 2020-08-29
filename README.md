@@ -24,7 +24,7 @@
 
 👯 I believe in [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
-📫 I open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](pedrodrocha.com/about-me/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
+📫 I am open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](pedrodrocha.com/about-me/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
 <!--
 **pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
