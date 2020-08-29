@@ -22,7 +22,7 @@
 :chart_with_upwards_trend: :computer: I have beeen studying _programming_ (R + Python) and _computational methods_ applied to the Social Sciences.
 
 
-👯 I believe in _open_ and _colaborative science_!. 
+👯 I believe in _open_ and _colaborative science_!
 
 📫 I open for job, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](pedrodrocha.com/about-me/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
