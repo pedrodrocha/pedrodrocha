@@ -1,3 +1,7 @@
+@settings {
+  font-family: Montserrat;
+}
+
 **Olá, meu nome é Pedro D. Rocha** 👋 
 
 
