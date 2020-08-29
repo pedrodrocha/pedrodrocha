@@ -11,8 +11,7 @@
 📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por e-mail (pedro.diniz.rocha@gmail.com), no meu [site](pedrodrocha.com/about-me/), ou pelo [Twitter](https://twitter.com/pedro_drocha).
 
 
-
-<p class="bg-dark text-black">_</p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 👋 **Hi, my name is Pedro D. Rocha**
 
