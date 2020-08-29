@@ -12,6 +12,8 @@
 
 
 
+<p class="bg-dark text-white"></p>
+
 👋 **Hi, my name is Pedro D. Rocha**
 
 
