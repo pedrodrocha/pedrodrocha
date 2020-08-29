@@ -6,7 +6,7 @@
 
 :chart_with_upwards_trend: :computer: Atualmente venho me especializando em _programação_ (R + Python) e _métodos computacionais_ aplicados as Ciências Sociais
 
-👯 Acredito na _ciência aberta_ e _colaborativa_.
+👯 Acredito na [_ciência aberta_ e _colaborativa_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
 📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por _e-mail (pedro.diniz.rocha@gmail.com)_, no meu _[site](pedrodrocha.com/about-me/)_, ou pelo _[Twitter](https://twitter.com/pedro_drocha)_.
 
@@ -22,7 +22,7 @@
 :chart_with_upwards_trend: :computer: I have beeen studying _programming_ (R + Python) and _computational methods_ applied to the Social Sciences.
 
 
-👯 I believe in _open_ and _collaborative science_!
+👯 I believe in [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
 📫 I open for job, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](pedrodrocha.com/about-me/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
