@@ -1,4 +1,5 @@
-<span style="font-family: 'Montserrat';">
+ <p style="font-family:Montserrat;">
+
 
 **Olá, meu nome é Pedro D. Rocha** 👋 
 
@@ -28,7 +29,7 @@
 
 📫 I am open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](pedrodrocha.com/about-me/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
-</span>
+</p>
 <!--
 **pedrodrocha/pedrodrocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
