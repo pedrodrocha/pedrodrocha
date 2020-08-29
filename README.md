@@ -12,7 +12,7 @@
 
 
 
-<p class="bg-dark text-white"></p>
+<p class="bg-dark text-black">_</p>
 
 👋 **Hi, my name is Pedro D. Rocha**
 
