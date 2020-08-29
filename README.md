@@ -1,4 +1,4 @@
-👋 **Olá, meu nome é Pedro D. Rocha**
+**Olá, meu nome é Pedro D. Rocha** 👋 
 
 
 
@@ -13,7 +13,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-👋 **Hi, my name is Pedro D. Rocha**
+**Hi, my name is Pedro D. Rocha** 👋 
 
 
 🔭 I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil, and my research is on _Peace Studies_ and _International Security_, with focus in _interstate territorial conflicts_ and _conflict resolution_.
