@@ -10,7 +10,7 @@
 
 :two_men_holding_hands: Acredito na [_ciência aberta_ e _colaborativa_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
-📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por _e-mail (pedro.diniz.rocha@gmail.com)_, no meu _[site](http://pedrodrocha.com/contato/)_, ou pelo _[Twitter](https://twitter.com/pedro_drocha)_.
+📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por _e-mail (pedro.diniz.rocha@gmail.com)_, no meu _[site](https://pedrodrocha.com/sobrept.html)_, ou pelo _[Twitter](https://twitter.com/pedro_drocha)_.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -25,6 +25,6 @@
 
 :two_men_holding_hands: I believe in [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
-📫 I am open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](http://pedrodrocha.com/contato/)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
+📫 I am open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](https://pedrodrocha.com/sobreing.html)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
 </samp>
