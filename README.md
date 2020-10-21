@@ -8,7 +8,7 @@
 
 :chart_with_upwards_trend: :computer: Atualmente venho me especializando em _programação_ (R + Python) e _métodos computacionais_ aplicados as Ciências Sociais. Também comecei a me aproximar de JavaScript e D3.js para visualização de dados.
 
-:two_men_holding_hands: Acredito na [_ciência aberta_ e _colaborativa_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
+:rocket: Acredito na [_ciência aberta_ e _colaborativa_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
 📫 Estou aberto para trabalharmos em conjunto. Vocês podem entrar em contato comigo por _e-mail (pedro.diniz.rocha@gmail.com)_, no meu _[site](https://pedrodrocha.com/sobrept.html)_, ou pelo _[Twitter](https://twitter.com/pedro_drocha)_.
 
@@ -23,7 +23,7 @@
 
 :chart_with_upwards_trend: :computer: I have beeen studying _programming_ (R + Python) and _computational methods_ applied to the Social Sciences. Recently I also started working with JavaScript and adventuring in D3.js.
 
-:two_men_holding_hands: I believe in [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
+:rocket: I believe in [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
 📫 I am open for jobs, talks, and/or research proposals. You can find me by _e-mail (pedro.diniz.rocha@gmail.com)_, at my _[website](https://pedrodrocha.com/sobreing.html)_ or via _[Twitter](https://twitter.com/pedro_drocha)_.
 
