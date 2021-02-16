@@ -21,7 +21,7 @@
 :microscope: I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. My research area is _Peace Studies_ and _International Security_, focusing on _interstate territorial conflicts_ and _conflict resolution_.
 
 
-:chart_with_upwards_trend: :computer: I have beeen specializing in _programming_and _computational methods_ applied to the Social Sciences. 
+:chart_with_upwards_trend: :computer: I've been specializing in _programming_and _computational methods_ applied to the Social Sciences. 
 
 :rocket: I believe in an [_open_ and _collaborative science_](https://ocsdnet.org/manifesto/open-science-manifesto/)!
 
