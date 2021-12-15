@@ -6,7 +6,7 @@
 
 :microscope: Sou Doutorando em _Relações Internacionais_ pelo PPGRI [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo). Estudo conflitos interestatais, focando no impacto de normas em processos de barganha e sou apaixonado pela visualização de dados. 
 	
-Recentemente, criei o DatavisRI, projeto focado em comunicação científica em relações internacionais por meio da visualização de informação, e co-fundei o hub "Relações Internacionais na Prática, um espaço para academicos e praticantes das relações internacionais discutirem formas de traduzir conhecimento científico em RI em produtos que beneficiem a sociedade.
+Recentemente, criei o DatavisRI, projeto focado em comunicação científica em relações internacionais por meio da visualização de informação, e co-fundei o hub "Relações Internacionais na Prática, um espaço para acadêmicos e praticantes das relações internacionais discutirem formas de traduzir conhecimento científico em RI em produtos que beneficiem a sociedade.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
