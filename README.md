@@ -21,12 +21,12 @@ Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series f
 </samp>
 <br>
 <a href="https://twitter.com/pedro_drocha">
-<img align="left" alt="Pedro Rocha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="center" alt="Pedro Rocha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/pedrodrocha/">
-<img align="left" alt="Pedro Rocha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="center" alt="Pedro Rocha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/pedro_drocha/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="center" alt="Pedro Rocha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
