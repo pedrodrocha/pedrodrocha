@@ -19,6 +19,8 @@ Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series f
 
 
 </samp>
+
+<p align='center'>
 <br>
 <a href="https://twitter.com/pedro_drocha">
 <img align="center" alt="Pedro Rocha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,4 +31,6 @@ Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series f
 <a href="https://www.instagram.com/pedro_drocha/">
 <img align="center" alt="Pedro Rocha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+	
+</p>
 <br>
