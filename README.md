@@ -4,7 +4,7 @@
 
 
 
-:microscope: Sou Doutorando em _Relações Internacionais_ pelo PPGRI [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo). Estudo conflitos interestatais, focando no impacto de normas em processos de barganha e sou apaixonado pela visualização de dados. 
+:microscope: Sou Doutorando em _Relações Internacionais_ pelo PPGRI [San Tiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo). Estudo conflitos interestatais, focando no impacto de normas em processos de barganha e sou apaixonado pela visualização de dados. 
 	
 Recentemente, criei o [DatavisRI](https://twitter.com/datavisri), projeto focado em comunicação científica em relações internacionais por meio da visualização de informação, e co-fundei o hub "Relações Internacionais na Prática, um espaço para acadêmicos e praticantes das relações internacionais discutirem formas de traduzir conhecimento científico em RI em produtos que beneficiem a sociedade.
 
@@ -13,7 +13,7 @@ Recentemente, criei o [DatavisRI](https://twitter.com/datavisri), projeto focado
 **Hi, my name is Pedro D. Rocha** 👋 
 
 
-:microscope: I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [Santiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. I study interstate conflicts focusing on the impact of norms in bargaining processes and am passionate about data visualization. 
+:microscope: I am currently a PhD Student in _International Relations_ at the International Relations graduate programme [San Tiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. I study interstate conflicts focusing on the impact of norms in bargaining processes and am passionate about data visualization. 
 	
 Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series for communicating IR research using information visualization, and co-founded the hub "International Relations in Practices", a space where Brazilian academics and practitioners  can discuss how to translate IR knowledge into real benefical products for society.
 
