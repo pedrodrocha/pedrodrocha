@@ -15,7 +15,7 @@ Recentemente, criei o [DatavisRI](https://twitter.com/datavisri), projeto focado
 
 :microscope: I am currently a PhD Student in _International Relations_ at the International Relations graduate program [San Tiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. I study interstate conflicts focusing on the impact of norms in bargaining processes and am passionate about data visualization. 
 	
-Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series for communicating IR research using information visualization, and co-founded the hub "International Relations in Practice", a space where Brazilian academics and practitioners  can discuss how to translate IR knowledge into real benefical products for society.
+Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series for communicating IR research using information visualization, and co-founded the hub "International Relations in Practice", a space where Brazilian academics and practitioners  can discuss how to translate IR knowledge into real beneficial products for society.
 
 
 </samp>
