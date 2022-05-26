@@ -1,6 +1,6 @@
 <samp>
 	
-Pedro Rocha is a political scientist from Brazil that for the past 5 years in academia has been applying programming, quantitative, and computational methods in different research projects. He has a solid experience in research design, hypothesis testing, and data projects ranging from data collection to analysis.
+Pedro Rocha is a political scientist from Brazil that for the past 5 years has been applying programming, quantitative, and computational methods in different research projects. He has a solid experience in research design, hypothesis testing, and data projects ranging from data collection to analysis.
 
 
 He is passionate about information design and loves helping organizations go beyond data, creating clear and engaging data visualizations & infographics that go beyond BI platform's "show me" templates, enhancing their impact and communication potential.
