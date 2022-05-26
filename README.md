@@ -10,7 +10,8 @@ Skills and Interests: Data Visualization and Information Design, Programming, So
 
 Softwares: R, Python, SQL, Adobe Illustrator
 
-E-mail: pedro.diniz.rocha@gmail.com 
+E-mail: pedro.diniz.rocha@gmail.com  
+	
 Mobile: +55(31)996000173
 
 
