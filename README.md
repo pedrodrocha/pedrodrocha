@@ -1,21 +1,12 @@
 <samp>
 	
-**Olá, meu nome é Pedro D. Rocha** 👋 
+Pedro Rocha is a political scientist from Brazil that for the past 5 years in academia has been applying programming, quantitative, and computational methods in different research projects. He has a solid experience in research design, hypothesis testing, and data projects ranging from data collection to analysis.
 
 
-
-:microscope: Sou Doutorando em _Relações Internacionais_ pelo PPGRI [San Tiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo). Estudo conflitos interestatais, focando no impacto de normas em processos de barganha e sou apaixonado pela visualização de dados. 
-	
-Recentemente, criei o [DatavisRI](https://twitter.com/datavisri), projeto focado em comunicação científica em relações internacionais por meio da visualização de informações, e co-fundei o hub "Relações Internacionais na Prática", um espaço para acadêmicos e praticantes das relações internacionais discutirem formas de traduzir conhecimento científico em RI em produtos que beneficiem a sociedade.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Hi, my name is Pedro D. Rocha** 👋 
+He is passionate about information design and loves helping organizations go beyond data, creating clear and engaging data visualizations & infographics that go beyond BI platform's "show me" templates, enhancing their impact and communication potential.
 
 
-:microscope: I am currently a PhD Student in _International Relations_ at the International Relations graduate program [San Tiago Dantas](https://www.santiagodantas-ppgri.org/) (Unesp-Unicamp-PUC/São Paulo), Brazil. I study interstate conflicts focusing on the impact of norms in bargaining processes and am passionate about data visualization. 
-	
-Recently I create [DatavisRI](https://twitter.com/datavisri), a datavis series for communicating IR research using information visualization, and co-founded the hub "International Relations in Practice", a space where Brazilian academics and practitioners  can discuss how to translate IR knowledge into real beneficial products for society.
+Additionally, he has been actively engaged in discussing how to translate knowledge from research into real beneficial products for society, co-founded a steadily-growing community of Brazilian International Relations scholars and practitioners, and created a web page that makes scientific findings accessible by telling high-quality data stories.
 
 
 </samp>
