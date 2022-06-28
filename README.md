@@ -8,7 +8,7 @@ Additionally, he has been actively engaged in discussing how to translate knowle
 
 Skills and Interests: Data Visualization and Information Design, Programming, Social Network Analysis (SNA), Quantitative Methods, Computational Methods, Qualitative Methods, Research Design, Business Development, International Relations, Political Science, Public Policy, International Security, Peace, and Conflict Resolution.
 
-Softwares: R, Python, SQL, Adobe Illustrator
+Softwares: R, D3.js, Node.js, SQL, Adobe Illustrator
 
 E-mail: pedro.diniz.rocha@gmail.com  
 	
