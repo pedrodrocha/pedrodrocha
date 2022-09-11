@@ -6,8 +6,6 @@ He has a solid experience in full-scale data projects, from developing ETL pipel
 
 Currently, he works as Data Developer at TOP Worldwide and is pursuing his Ph.D. in International Relations at San Tiago Dantas (UNESP - UNICAMP - PUC/SP).
 
-Software: D3.js, Node.js, R, SQL, Adobe Illustrator
-
 E-mail: pedro.diniz.rocha@gmail.com
 
 </samp>
