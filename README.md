@@ -6,7 +6,7 @@ In my current role I lead the end-to-end development of internal applications, u
 
 Before that, as a Data Engineer and Research Lead at LANTRI, I built data pipelines and applied statistical models to uncover valuable insights. I also mentored MSc and BA students, teaching computational social science and programming.
 
-Alongside my full-time roles, I’ve freelanced and helped build several projects, such as a geo-quiz platform and a data analytics and AI startup.
+Alongside my full-time roles, I’ve freelanced and helped build several projects, such as a geo-quiz platform with thousands of users monthly and a data analytics and AI agents startup.
 
 I enjoy mentoring junior developers and promoting a collaborative, learning-focused team environment. With a diverse technical skill set, including Python, JavaScript, Node.js, SQL, React, Next.js, AWS, and more, I’m passionate about building solutions that contribute to both technical and business success.
 
