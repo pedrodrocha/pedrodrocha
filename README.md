@@ -1,24 +1,17 @@
 <samp>
-I’m a Senior Software Engineer with experience building software applications, modular architectures, AI-powered systems, and data pipelines for both technical and non-technical users. My work includes leveraging large language models (LLMs) and agentic workflows to enable intuitive, human-like interactions with complex data. I’ve also led full-stack projects, mentored students and junior developers on data-driven research and software engineering. My PhD in Conflict Studies gives me a strong analytical mindset alongside technical expertise.
 
-What I’m good at:
-- Writing clean, reliable code
-- Building AI-powered features with LLMs for natural language interfaces and automation
-- Optimizing databases for efficiency and reliability
-- Reducing repetitive tasks with smart automation, ETL pipelines, and CI/CD
-- Communicating technical ideas clearly to non-technical stakeholders
-- Delivering meaningful software that saves time, cuts costs, and improves resilience
+Software engineer focused on intelligent systems, distributed architectures, and workflow orchestration.
 
-I believe great software…
+I work on building scalable AI-powered platforms and media intelligence systems, with experience across orchestration pipelines, retrieval systems, large-scale ingestion flows, and backend platform engineering.
 
-- Feels like it was built by someone who truly understands the problem
-- Has intention in every detail. No clutter, no guessing
-- Treats code as a craft, not a commodity
-- Feels good to use, without insulting users with unclear UI or shallow thinking
-- Comes across as human-made, not just growth-hacked
+My work sits at the intersection of backend engineering, AI infrastructure, and systems design — designing reliable pipelines and platforms that support complex data processing and LLM-driven workflows.
 
-I’m passionate about continuous learning and thrive when working autonomously, while actively building and supporting strong teams. I enjoy thinking deeply about problems and helping others develop the skills and mindset to tackle challenges thoughtfully.
+I’m particularly interested in:
 
-I value simple, maintainable systems and teams that focus on what truly matters.
-
+- Workflow orchestration and distributed systems
+- AI infrastructure and intelligent pipelines
+- Retrieval and classification systems
+- Platform and backend architecture
+- Observability, reliability, and scalable processing systems
+.
 </samp>
