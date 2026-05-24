@@ -2,7 +2,7 @@
 
 Software engineer focused on intelligent systems, distributed architectures, and workflow orchestration.
 
-I work on building scalable AI-powered platforms and media intelligence systems, with experience across orchestration pipelines, retrieval systems, large-scale ingestion flows, and backend platform engineering.
+I work on building scalable AI-powered platforms, with experience across orchestration pipelines, retrieval systems, large-scale ingestion flows, and backend platform engineering.
 
 My work sits at the intersection of backend engineering, AI infrastructure, and systems design — designing reliable pipelines and platforms that support complex data processing and LLM-driven workflows.
 
